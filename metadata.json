@@ -1,0 +1,6 @@
+{
+  "name": "Rakshak — Food AI",
+  "description": "Futuristic AI nutrition application with photo-based food recognition, USDA-verified calorie tracking, portion adjustment, and AI nutrition assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
